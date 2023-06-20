@@ -67,7 +67,7 @@ img{
 .box1{
     border-radius: 20px;
     z-index: 2;
-    background-color:rgb(105, 91, 196);
+    background: linear-gradient(rgba(95,63,252,1),rgba(51,45,233,1));
     color: white;
     
 }
