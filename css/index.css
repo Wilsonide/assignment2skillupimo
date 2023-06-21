@@ -24,7 +24,7 @@ ul{
 }
 
 img{
-    max-width: 100%;
+    max-width: 90%;
     height: auto;
     display: block;
 }
@@ -52,7 +52,7 @@ img{
     display: flex;
     flex-direction: column;
     height: 100%;
-    width: 300px;
+    width: 30px;
     align-items: center;
     
 }
